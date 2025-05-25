@@ -1,2 +1,2 @@
-# elmag
-Numerical assignments FY1003
+# mekfys
+Numerical assignments FY1001
